@@ -1,3 +1,8 @@
+#moved to 
+https://github.com/mingderwang/sensitive-tweets-bluzelle
+
+
+
 # sensitive-tweets-bluzelle
 for bluzelle swarm of duty -> https://gitcoin.co/issue/bluzelle/swarm-of-duty/5/4193
 
