@@ -11,3 +11,5 @@ https://snack.expo.io/@mingderwang/sensitive-tweets-bluzelle
 
 # run logstash + Elasticsearch + elastalert to get sensitive tweets on DB
 
+# demo snapshot on paper
+https://paper.dropbox.com/doc/Sensible-Tweets-stored-on-Bluzelle-blockchain-DB--Azru1b5tvaI4LCoOV2C9PRb_Ag-FUKevksAF9Y99FfQKNYWx
